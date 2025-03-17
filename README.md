@@ -24,7 +24,7 @@ billing-system/ │── backend/ # Node.js (Express) API │ ├── server.
 
 ### **1️⃣ Clone the repository**  
 ```bash
-git clone https://github.com/your-username/billing-system.git
+git clone https://github.com/sadmaanwarshi/Assignment_solution.git
 cd billing-system
 ```
 ---
